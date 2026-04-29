@@ -1,0 +1,6 @@
+{
+  "name": "StockMaster Pro",
+  "description": "Professional inventory management and logistics tracking system with AI-powered OCR scanning, multi-item consolidation, and real-time status updates.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["inventory-tracking", "logistics-pipeline", "data-analytics"]
+}
